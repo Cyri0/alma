@@ -10,9 +10,13 @@ function datum(){
 }
 
 function increase(num){
-  return num + 1
+  return num + 5
 }
 
 function decrease(num){
   return num - 1
+}
+
+function power(num){
+  return num * num
 }
