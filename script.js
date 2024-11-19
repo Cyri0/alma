@@ -14,7 +14,7 @@ function increase(num){
 }
 
 function decrease(num){
-  return num - 1
+  return num - 5
 }
 
 function power(num){
