@@ -5,7 +5,14 @@ function hello(){
 }
 hello()
 
-
 function datum(){
     console.log(new Date())
+}
+
+function increase(num){
+  return num + 1
+}
+
+function decrease(num){
+  return num - 1
 }
